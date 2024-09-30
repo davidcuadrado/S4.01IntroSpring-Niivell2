@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cat.itacademy.s04.t01.n02.S04T01N02.S04T01N02ApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-09-30T11:07:44" hostname="M027598" time="0.703">
+  <properties/>
+  <testcase name="contextLoads()" classname="cat.itacademy.s04.t01.n02.S04T01N02.S04T01N02ApplicationTests" time="0.703"/>
+  <system-out><![CDATA[13:07:42.915 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [cat.itacademy.s04.t01.n02.S04T01N02.S04T01N02ApplicationTests]: S04T01N02ApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+13:07:43.016 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration cat.itacademy.s04.t01.n02.S04T01N02.S04T01N02Application for test class cat.itacademy.s04.t01.n02.S04T01N02.S04T01N02ApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.3.4)
+
+2024-09-30T13:07:43.423+02:00  INFO 9984 --- [S04T01N02] [    Test worker] c.i.s.t.n.S.S04T01N02ApplicationTests    : Starting S04T01N02ApplicationTests using Java 17.0.12 with PID 9984 (started by formacio in C:\Users\formacio\Downloads\S04T01N02\S04T01N02)
+2024-09-30T13:07:43.425+02:00  INFO 9984 --- [S04T01N02] [    Test worker] c.i.s.t.n.S.S04T01N02ApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2024-09-30T13:07:44.557+02:00  INFO 9984 --- [S04T01N02] [    Test worker] c.i.s.t.n.S.S04T01N02ApplicationTests    : Started S04T01N02ApplicationTests in 1.338 seconds (process running for 2.452)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
