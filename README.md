@@ -30,13 +30,4 @@ Passos necessaris per a la instal·lació del projecte en un entorn local.
 Instruccions per a l'execució del projecte un cop instal·lat.
 
 
-🌐Desplegament
-
-Instruccions per al desplegament del projecte en un entorn de producció o servidor.
-
-
-🤝Contribucions
-
-Normes i guies per a contribuir al projecte, si escau.
-
 */
