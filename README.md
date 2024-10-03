@@ -1,33 +1,71 @@
 # S4.01IntroSpring-Nivell2
 
-📄Description
+📄 Description
 
-This exercice is a first contact with Spring and Gradle, with the objective of building a Spring Boot project which will respond to GET petitions, optionally receiving a single parameter.
+This project provides an introduction to Spring Boot, focusing on building a web application that responds to GET requests, optionally accepting a single parameter.
 
+💻 Technologies Used
 
-💻Used technologies
+IntelliJ IDEA Community Edition 2024.1.1
+Spring Boot 3.3.4
+Gradle with Kotlin dependencies
 
-The project structure was built using Spring Initializr and edited with IntelliJ IDEA Community Edition 2024.1.1. 
+📋 Prerequisites
 
+Java 17 or higher
+Gradle (included in the project structure)
 
-/*
+🛠️ Installation
 
-📋Requisits
+Clone the repository:
+> git clone <REPOSITORY_URL>
 
-Especificacions dels requisits necessaris per a poder executar el projecte, com ara versions de programari, dependències, etc.
-Java 17
-Spring 3.3.4
-Gradle - Kotlin dependencies
+Navigate to the project directory:
+> cd S4.01IntroSpring-Nivell2-main
 
-
-🛠️Instal·lació
-
-Passos necessaris per a la instal·lació del projecte en un entorn local.
-
-
-▶️Execució
-
-Instruccions per a l'execució del projecte un cop instal·lat.
+Build the project using Gradle:
+> ./gradlew build
 
 
-*/
+▶️ Execution
+
+You can run the application locally using the Gradle wrapper. 
+To start the application:
+> ./gradlew bootRun
+> 
+Alternatively, you can execute the built JAR file:
+> java -jar build/libs/filename.jar
+>
+> 
+🔑 Key Features
+
+GET Requests: The project handles GET requests, allowing optional query parameters.
+
+
+🌐 Deployment
+
+1. Build the application: Generate the executable JAR:
+> ./gradlew build
+
+2. Prepare the environment: Ensure you have a compatible JRE (Java Runtime Environment) with version 17 or higher.
+
+3. Run the JAR on a VM or cloud:
+>java -jar build/libs/filename.jar
+
+
+🤝 Contributing
+1. Fork the repository
+2. Create a new branch:
+> git checkout -b feature/new-feature
+3. Make your changes and commit them:
+>git commit -m 'Add new feature'
+4. Push to the branch:
+> git push origin feature/new-feature
+5. Create a pull request
+
+
+🔗 Useful links
+
+· 
+· 
+
