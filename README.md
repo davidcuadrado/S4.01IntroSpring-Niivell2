@@ -66,6 +66,5 @@ GET Requests: The project handles GET requests, allowing optional query paramete
 
 🔗 Useful links
 
-· 
-· 
+· ¿Qué es una API Restful?: https://aws.amazon.com/es/what-is/restful-api/ 
 
